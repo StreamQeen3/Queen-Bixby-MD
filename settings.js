@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
+global.owner = ['94762511600']
+global.premium = ['94762511600']
+global.ownernomer = '94762511600'
+global.ownername = '𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾'
 global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ Deploy by 𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾.'
+global.ig = '_ලින්ක් එක නෑනෙ සහෝ_'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
+global.sc = '_ලින්ක් එක නෑනෙ සහෝ_'
+global.myweb = '_ලින්ක් එක නෑනෙ සහෝ_'
 global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.author = '𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾 '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
